@@ -7,4 +7,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-<changes>
+## [2.0.0-beta.1] - 2025-07-12
+
+### Removed
+
+- SourceModPatcher tokens in gameinfo.txt
+
+## [1.0.0] - 2024-08-13
+
+### Added
+
+- Initial release in SourceModPatcher
+
+### Fixed
+
+- Missing widescreen background materials
